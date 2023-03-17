@@ -1,0 +1,35 @@
+
+.header, .hero, .body, .bar, .footer {
+
+	background-color: teal;
+	margin-bottom: 10px;
+}
+
+.box{
+	margin: 5px 0;
+	min-height: 80px;
+	font-size: 15px;
+	background-color: red;
+	color: white;
+}
+
+.boxred {
+	margin: 5px 0;
+	min-height: 80px;
+	font-size: 15px;
+	background-color: lime;
+}
+.boxblue {
+	margin: 5px 0;
+	min-height: 80px;
+	font-size: 15px;
+	background-color: blue;
+	color: white;
+}
+
+.boxf{
+	margin: 5px 0;
+	min-height: 80px;
+	font-size: 15px;
+	background-color: deeppink;
+}
